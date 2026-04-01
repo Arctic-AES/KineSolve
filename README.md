@@ -1,6 +1,6 @@
 # KineSolve — 1D Kinematics Calculator
 
-A MATLAB script that solves for unknown motion variables using the 4 1D kinematic equations.
+A MATLAB script that solves for unknown motion variables using the four 1D kinematic equations.
 
 ## How to Run
 1. Open `KineSolve.m` in MATLAB
