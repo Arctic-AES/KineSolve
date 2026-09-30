@@ -8,7 +8,6 @@ close all; clear; clc;
 
  
 fprintf('⊰══════════════════════════════════════════⊱\n');
-fprintf('         Welcome to KineSolve.m            \n');
 fprintf('   Kinematics Calculator — 1D Motion       \n');
 fprintf('⊰══════════════════════════════════════════⊱\n\n');
  
