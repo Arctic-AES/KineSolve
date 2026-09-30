@@ -20,11 +20,7 @@ vf = input('Final velocity   vf (m/s)       : ');
 a  = input('Acceleration     a  (m/s^2)     : ');
 t  = input('Time             t  (s)         : ');
 d  = input('Displacement     d  (m)         : ');
- 
-fprintf('\n⊰══════════════════════════════════════════⊱\n');
-fprintf('           Solving Unknowns...             \n');
-fprintf('⊰══════════════════════════════════════════⊱\n\n');
- 
+
 % ---- Time Validity Check ----
 if (~isnan(t) && t < 0)
     fprintf('[ERROR] Time cannot be negative. Please re-run and enter a valid time.\n');
